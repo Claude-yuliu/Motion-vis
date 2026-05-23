@@ -78,5 +78,5 @@ Motion-Vis/
 ```
 
 ## 📬 Contact
-
+Name: Yu Liu
 Email: [claudeliu2002@gmail.com](mailto:claudeliu2002@gmail.com)
